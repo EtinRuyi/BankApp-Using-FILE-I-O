@@ -1,0 +1,17 @@
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Commons.deps.json
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Commons.dll
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Commons.pdb
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Data.dll
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Model.dll
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Data.pdb
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\bin\Debug\net6.0\BankApp.Model.pdb
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.csproj.AssemblyReference.cache
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.AssemblyInfoInputs.cache
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.AssemblyInfo.cs
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.csproj.CoreCompileInputs.cache
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.csproj.CopyComplete
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.dll
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\refint\BankApp.Commons.dll
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\BankApp.Commons.pdb
+C:\Users\omoru\Desktop\BankApp\BankApp.Commons\obj\Debug\net6.0\ref\BankApp.Commons.dll

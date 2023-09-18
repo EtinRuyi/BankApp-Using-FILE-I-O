@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cb/Fs25/mtu0+XiHVxvYND+KUrJOPDRWIocrDgDAndIAwKBarUdzEFkgel+wmVXRCfwb+WKc4c7PXUKTDH7tAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omoru\\Desktop\\BankApp\\BankApp\\BankApp.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omoru\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
